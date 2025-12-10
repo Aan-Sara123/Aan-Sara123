@@ -7,10 +7,10 @@ I enjoy learning new technologies, building simple apps, and improving my skills
 ---
 
 ## 🚀 Tech Stack  
-**Languages:** C, Python, Java, Dart
-**Development:** Flutter, HTML, CSS, JavaScript, PHP
-**Backend & Cloud:** Firebase , MySQL
-**Tools:** Git, GitHub, Excel, PowerPoint  
+- **Languages:** C, Python, Java, Dart
+- **Development:** Flutter, HTML, CSS, JavaScript, PHP
+- **Backend & Cloud:** Firebase , MySQL
+- **Tools:** Git, GitHub, Excel, PowerPoint  
 
 ---
 
@@ -31,15 +31,7 @@ A mobile app project where I worked on:
 - Dashboard screens  
 - Firebase authentication and basic data flow  
 *Improved my Flutter fundamentals and Firebase integration skills.*
-
----
-
-## 📚 What I'm Learning Right Now  
-- Flutter fundamentals  
-- Firebase backend  
-- Web development basics  
-- Git & GitHub workflows  
-
+ 
 ---
 
 ## 🌟 Interests  
