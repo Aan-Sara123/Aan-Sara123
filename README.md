@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Aansara 👋  
+CS Student | Developer & Tech Enthusiast
 
-<!--
-**Aan-Sara123/Aan-Sara123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student exploring development and problem-solving through small but meaningful projects.  
+I enjoy learning new technologies, building simple apps, and improving my skills one step at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack  
+**Languages:** C, Python, Java, Dart
+**Development:** Flutter, HTML, CSS, JavaScript, PHP
+**Backend & Cloud:** Firebase , MySQL
+**Tools:** Git, GitHub, Excel, PowerPoint  
+
+---
+
+## 📌 Projects  
+Here are a few things I've worked on:
+
+### 🔹 MoodSwingSimulator3000 (Java)  
+A console-based Java project that simulates mood responses and user interactions.  
+*Explored Java basics, logic building, and user input handling.*
+
+### 🔹 NumberGuessingGame2 (Java)  
+A simple number-guessing game built with Java.  
+*Practiced loops, randomization, and clean code structure.*
+
+### 🔹 HomeEase (Flutter + Firebase)  
+A mobile app project where I worked on:  
+- Login UI  
+- Dashboard screens  
+- Firebase authentication and basic data flow  
+*Improved my Flutter fundamentals and Firebase integration skills.*
+
+---
+
+## 📚 What I'm Learning Right Now  
+- Flutter fundamentals  
+- Firebase backend  
+- Web development basics  
+- Git & GitHub workflows  
+
+---
+
+## 🌟 Interests  
+- App development  
+- Web development  
+- Community learning 
+
+---
+
+## 📫 Contact  
+**GitHub:** https://github.com/Aan-Sara123  
+**LinkedIn:** https://www.linkedin.com/in/aan-sara-biju-56a632275 
+
+---
+
+✨ *Always learning. Always growing.*  
